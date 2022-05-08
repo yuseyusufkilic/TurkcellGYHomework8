@@ -1,0 +1,28 @@
+﻿@model ProductListResponse
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="card mb-2">
+  <img src="@Model.ImageUrl" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">@Model.Name</h5>
+    <p class="card-text">
+        @if (@Model.Discount!=null)
+        {           
+                <span>@Model.Price instead</span> @((Model.Price)*(1-@Model.Discount)) <span>$</span>
+
+            }
+            else
+            {
+                <span>@Model.Price $</span>
+            }
+        </p>
+
+    <a href="#" class="btn btn-primary shopCart" data-id="@Model.Id" onclick="event.preventDefault(); resendCode();">Add to Bucket</a>
+    
+  </div>
+</div>
+

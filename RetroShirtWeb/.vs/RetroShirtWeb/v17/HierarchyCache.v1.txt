@@ -1,0 +1,1605 @@
+﻿++Solution 'RetroShirtWeb' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:RetroShirtWeb.sln
+++RetroShirt.Business
+i:{00000000-0000-0000-0000-000000000000}:RetroShirt.Business
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirt.business\retroshirt.business.csproj
+++Dependencies
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:>321
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:>320
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:>414
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:>322
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1766
+++Abstract
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\abstract\
+++Concrete
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\concrete\
+++CategoryService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\concrete\categoryservice.cs
+++CategoryTeamService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\concrete\categoryteamservice.cs
+++ProductService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\concrete\productservice.cs
+++TeamService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\concrete\teamservice.cs
+++MapperProfile
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\mapperprofile\
+++Class1.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\class1.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\class1.cs
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\class1.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\class1.cs
+++Analyzers
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:analyzers
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:analyzers
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:analyzers
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:analyzers
+++Frameworks
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:frameworks
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:frameworks
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:frameworks
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:frameworks
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:frameworks
+++Packages
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:packages
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:packages
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:packages
+++Projects
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:projects
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:projects
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:projects
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:projects
+++ICategoryService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\abstract\icategoryservice.cs
+++ICategoryTeamService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\abstract\icategoryteamservice.cs
+++IProductService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\abstract\iproductservice.cs
+++ITeamService.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\abstract\iteamservice.cs
+++MapProfile.cs
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\mapperprofile\mapprofile.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.16\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirt.business\microsoft.netcore.app
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\microsoft.netcore.app
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\microsoft.netcore.app
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\microsoft.netcore.app
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:>1813
+++RetroShirtDAL
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirtdal\retroshirtdal.csproj
+i:{00000000-0000-0000-0000-000000000000}:RetroShirtDAL
+++RetroShirtDtos
+i:{6c47e7d5-7bc1-45db-a8cb-fb946b2c53a3}:d:\c# projects\retroshirtweb\retroshirtdtos\retroshirtdtos.csproj
+i:{00000000-0000-0000-0000-000000000000}:RetroShirtDtos
+++Data
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\data\
+++Migrations
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\
+++Repositories
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\
+++EFCategoryRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\efcategoryrepository.cs
+++EFCategoryTeamRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\efcategoryteamrepository.cs
+++EFProductRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\efproductrepository.cs
+++EFTeamRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\efteamrepository.cs
+++ICategoryRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\icategoryrepository.cs
+++ICategoryTeamRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\icategoryteamrepository.cs
+++IProductRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\iproductrepository.cs
+++IRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\irepository.cs
+++ITeamRepository.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\repositories\iteamrepository.cs
+++RetroShirtDBContext.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\data\retroshirtdbcontext.cs
+++20220420135722_FirstCreate.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220420135722_firstcreate.cs
+++20220420221705_Add-migration M2MAdded.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220420221705_add-migration m2madded.cs
+++20220421221945_imgDataUpd.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220421221945_imgdataupd.cs
+++20220425115440_M2MUpdate.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425115440_m2mupdate.cs
+++20220425121917_UpdateM2MAgain.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425121917_updatem2magain.cs
+++20220425125423_add-migration deneme.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425125423_add-migration deneme.cs
+++20220425212428_M2MUpd.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425212428_m2mupd.cs
+++20220427202250_IsActiveAdded.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220427202250_isactiveadded.cs
+++RetroShirtDBContextModelSnapshot.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\retroshirtdbcontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore (5.0.16)
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:>1795
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.16)
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:>1796
+++Microsoft.EntityFrameworkCore.Tools (5.0.16)
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:>1797
+++RetroShirtEntities
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtentities\retroshirtentities.csproj
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtentities\retroshirtentities.csproj
+i:{00000000-0000-0000-0000-000000000000}:RetroShirtEntities
+++20220420135722_FirstCreate.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220420135722_firstcreate.designer.cs
+++20220420221705_Add-migration M2MAdded.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220420221705_add-migration m2madded.designer.cs
+++20220421221945_imgDataUpd.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220421221945_imgdataupd.designer.cs
+++20220425115440_M2MUpdate.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425115440_m2mupdate.designer.cs
+++20220425121917_UpdateM2MAgain.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425121917_updatem2magain.designer.cs
+++20220425125423_add-migration deneme.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425125423_add-migration deneme.designer.cs
+++20220425212428_M2MUpd.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220425212428_m2mupd.designer.cs
+++20220427202250_IsActiveAdded.Designer.cs
+i:{ff50112b-7e9f-4cf8-b5f4-b114b381c791}:d:\c# projects\retroshirtweb\retroshirtdal\migrations\20220427202250_isactiveadded.designer.cs
+++Requests
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\requests\
+++Responses
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\responses\
+++ProductAddingRequest.cs
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\requests\productaddingrequest.cs
+++ProductListResponse.cs
+i:{afa5c88c-744c-40db-97fe-1488ab20b7b0}:d:\c# projects\retroshirtweb\retroshirtdtos\responses\productlistresponse.cs
+++Category.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\category.cs
+++CategoryTeam.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\categoryteam.cs
+++IEntity.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\ientity.cs
+++Product.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\product.cs
+++Team.cs
+i:{dc8b649b-7d03-4658-96cf-321a9a2ac5d5}:d:\c# projects\retroshirtweb\retroshirtentities\team.cs
+++RetroShirtWeb
+i:{00000000-0000-0000-0000-000000000000}:RetroShirtWeb
+++Connected Services 
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1767
+++Imports
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1011
+++Properties
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\properties\
+++launchSettings.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\properties\launchsettings.json
+++wwwroot
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\
+++css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\css\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\alertify\css\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\css\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\js\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\js\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\unix\lib\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\lib\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\favicon.ico
+++bin
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\
+++Debug
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\
+++Controllers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\controllers\
+++HomeController.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\controllers\homecontroller.cs
+++ProductsController.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\controllers\productscontroller.cs
+++Models
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\models\
+++ErrorViewModel.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\models\errorviewmodel.cs
+++obj
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\
+++project.assets.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\project.assets.json
+++project.nuget.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\project.nuget.cache
+++RetroShirtWeb.csproj.nuget.dgspec.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\retroshirtweb.csproj.nuget.dgspec.json
+++RetroShirtWeb.csproj.nuget.g.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\retroshirtweb.csproj.nuget.g.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\retroshirtweb.csproj.nuget.g.props
+++RetroShirtWeb.csproj.nuget.g.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\retroshirtweb.csproj.nuget.g.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\retroshirtweb.csproj.nuget.g.targets
+++ViewComponents
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\viewcomponents\
+++DropDownMenuViewComponent.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\viewcomponents\dropdownmenuviewcomponent.cs
+++Views
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\
+++Home
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\home\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\home\
+++Products
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\
+++Create.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\create.cshtml
+++CreateTeam.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\createteam.cshtml
+++Delete.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\delete.cshtml
+++Index.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\index.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\home\index.cshtml
+++Remove.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\products\remove.cshtml
+++Shared
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\
+++Components
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\components\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\components\
+++_Layout.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\_layout.cshtml
+++_Navbar.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\_navbar.cshtml
+++_Pagination.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\_pagination.cshtml
+++_ProductCard.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\_productcard.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\_viewstart.cshtml
+++appsettings.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\appsettings.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\appsettings.json
+++appsettings.Development.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\appsettings.development.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\appsettings.development.json
+++libman.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\libman.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\libman.json
+++Program.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\program.cs
+++Startup.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\startup.cs
+++No service dependencies discovered
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1768
+++Microsoft.AspNetCore.Analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\users\user\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\users\user\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.16)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1779
+++Microsoft.EntityFrameworkCore.Design (5.0.16)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1780
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:>1781
+++Sdk.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++site.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\css\site.css
+++site.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\js\site.js
+++alertify
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\alertify\
+++bootstrap
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\
+++jquery
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\
+++jquery-validation
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation-unobtrusive\
+++net5.0
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\
+++Privacy.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\home\privacy.cshtml
+++DropDownMenu
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\components\dropdownmenu\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\components\dropdownmenu\
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++alertify.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\alertify\alertify.min.js
+++dist
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\dist\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\license.txt
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\cs\
+++de
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\de\
+++es
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\es\
+++fr
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\fr\
+++it
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\it\
+++ja
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ja\
+++ko
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ko\
+++pl
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pl\
+++pt-BR
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pt-br\
+++refs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\
+++ru
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ru\
+++runtimes
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\
+++tr
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\tr\
+++zh-Hans
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hans\
+++zh-Hant
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hant\
+++AutoMapper.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\automapper.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\automapper.extensions.microsoft.dependencyinjection.dll
+++dotnet-aspnet-codegenerator-design.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\humanizer.dll
+++Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.aspnetcore.mvc.razor.extensions.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.data.sqlclient.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.extensions.dependencymodel.dll
+++Microsoft.Extensions.Options.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Newtonsoft.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\newtonsoft.json.dll
+++RetroShirt.Business.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirt.business.dll
+++RetroShirt.Business.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirt.business.pdb
+++RetroShirtDAL.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtdal.dll
+++RetroShirtDAL.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtdal.pdb
+++RetroShirtDtos.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtdtos.dll
+++RetroShirtDtos.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtdtos.pdb
+++RetroShirtEntities.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtentities.dll
+++RetroShirtEntities.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtentities.pdb
+++RetroShirtWeb.deps.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.deps.json
+++RetroShirtWeb.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\ref\retroshirtweb.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\refint\retroshirtweb.dll
+++RetroShirtWeb.exe
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.exe
+++RetroShirtWeb.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.pdb
+++RetroShirtWeb.runtimeconfig.dev.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.runtimeconfig.dev.json
+++RetroShirtWeb.runtimeconfig.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.runtimeconfig.json
+++RetroShirtWeb.Views.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.views.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.views.dll
+++RetroShirtWeb.Views.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\retroshirtweb.views.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.views.pdb
+++System.Composition.AttributedModel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.runtime.caching.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Runtime.CompilerServices.Unsafe.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.runtime.compilerservices.unsafe.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++Razor
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\
+++ref
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\ref\
+++refint
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\refint\
+++staticwebassets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\apphost.exe
+++project.razor.json
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\project.razor.json
+++RetroShirtWeb.AssemblyInfo.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.assemblyinfo.cs
+++RetroShirtWeb.AssemblyInfoInputs.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.assemblyinfoinputs.cache
+++RetroShirtWeb.assets.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.assets.cache
+++RetroShirtWeb.csproj.AssemblyReference.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.csproj.assemblyreference.cache
+++RetroShirtWeb.csproj.BuildWithSkipAnalyzers
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.csproj.buildwithskipanalyzers
+++RetroShirtWeb.csproj.CopyComplete
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.csproj.copycomplete
+++RetroShirtWeb.csproj.CoreCompileInputs.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.csproj.corecompileinputs.cache
+++RetroShirtWeb.csproj.FileListAbsolute.txt
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.csproj.filelistabsolute.txt
+++RetroShirtWeb.GeneratedMSBuildEditorConfig.editorconfig
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.generatedmsbuildeditorconfig.editorconfig
+++RetroShirtWeb.genruntimeconfig.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.genruntimeconfig.cache
+++RetroShirtWeb.MvcApplicationPartsAssemblyInfo.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.mvcapplicationpartsassemblyinfo.cache
+++RetroShirtWeb.MvcApplicationPartsAssemblyInfo.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.mvcapplicationpartsassemblyinfo.cs
+++RetroShirtWeb.RazorAssemblyInfo.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.razorassemblyinfo.cache
+++RetroShirtWeb.RazorAssemblyInfo.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.razorassemblyinfo.cs
+++RetroShirtWeb.RazorCoreGenerate.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.razorcoregenerate.cache
+++RetroShirtWeb.RazorTargetAssemblyInfo.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.razortargetassemblyinfo.cache
+++RetroShirtWeb.RazorTargetAssemblyInfo.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.razortargetassemblyinfo.cs
+++RetroShirtWeb.TagHelpers.input.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.taghelpers.input.cache
+++RetroShirtWeb.TagHelpers.output.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\retroshirtweb.taghelpers.output.cache
+++Default.cshtml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\views\shared\components\dropdownmenu\default.cshtml
+++Microsoft.Common.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++alertify.min.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\alertify\css\alertify.min.css
+++bootstrap.min.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\css\bootstrap.min.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.bundle.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++jquery.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\cs\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\de\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\es\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\fr\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\it\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ja\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ko\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pl\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ru\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\tr\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++Microsoft.AspNetCore.Antiforgery.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.antiforgery.dll
+++Microsoft.AspNetCore.Authentication.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.abstractions.dll
+++Microsoft.AspNetCore.Authentication.Cookies.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.cookies.dll
+++Microsoft.AspNetCore.Authentication.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.core.dll
+++Microsoft.AspNetCore.Authentication.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.dll
+++Microsoft.AspNetCore.Authentication.OAuth.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.oauth.dll
+++Microsoft.AspNetCore.Authorization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authorization.dll
+++Microsoft.AspNetCore.Authorization.Policy.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.authorization.policy.dll
+++Microsoft.AspNetCore.Components.Authorization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.components.authorization.dll
+++Microsoft.AspNetCore.Components.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.components.dll
+++Microsoft.AspNetCore.Components.Forms.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.components.forms.dll
+++Microsoft.AspNetCore.Components.Server.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.components.server.dll
+++Microsoft.AspNetCore.Components.Web.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.components.web.dll
+++Microsoft.AspNetCore.Connections.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.connections.abstractions.dll
+++Microsoft.AspNetCore.CookiePolicy.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.cookiepolicy.dll
+++Microsoft.AspNetCore.Cors.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.cors.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.DataProtection.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.abstractions.dll
+++Microsoft.AspNetCore.DataProtection.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.dll
+++Microsoft.AspNetCore.DataProtection.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.extensions.dll
+++Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.abstractions.dll
+++Microsoft.AspNetCore.Diagnostics.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.dll
+++Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.healthchecks.dll
+++Microsoft.AspNetCore.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.dll
+++Microsoft.AspNetCore.HostFiltering.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.hostfiltering.dll
+++Microsoft.AspNetCore.Hosting.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.abstractions.dll
+++Microsoft.AspNetCore.Hosting.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.dll
+++Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.server.abstractions.dll
+++Microsoft.AspNetCore.Html.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.html.abstractions.dll
+++Microsoft.AspNetCore.Http.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.abstractions.dll
+++Microsoft.AspNetCore.Http.Connections.Common.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.connections.common.dll
+++Microsoft.AspNetCore.Http.Connections.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.connections.dll
+++Microsoft.AspNetCore.Http.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.dll
+++Microsoft.AspNetCore.Http.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.extensions.dll
+++Microsoft.AspNetCore.Http.Features.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.http.features.dll
+++Microsoft.AspNetCore.HttpOverrides.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.httpoverrides.dll
+++Microsoft.AspNetCore.HttpsPolicy.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.httpspolicy.dll
+++Microsoft.AspNetCore.Identity.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.identity.dll
+++Microsoft.AspNetCore.Localization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.localization.dll
+++Microsoft.AspNetCore.Localization.Routing.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.localization.routing.dll
+++Microsoft.AspNetCore.Metadata.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.metadata.dll
+++Microsoft.AspNetCore.Mvc.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.abstractions.dll
+++Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.apiexplorer.dll
+++Microsoft.AspNetCore.Mvc.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.core.dll
+++Microsoft.AspNetCore.Mvc.Cors.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.cors.dll
+++Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.dataannotations.dll
+++Microsoft.AspNetCore.Mvc.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.formatters.json.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.formatters.xml.dll
+++Microsoft.AspNetCore.Mvc.Localization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.localization.dll
+++Microsoft.AspNetCore.Mvc.Razor.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.razor.dll
+++Microsoft.AspNetCore.Mvc.RazorPages.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.razorpages.dll
+++Microsoft.AspNetCore.Mvc.TagHelpers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.taghelpers.dll
+++Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.viewfeatures.dll
+++Microsoft.AspNetCore.Razor.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.razor.dll
+++Microsoft.AspNetCore.Razor.Runtime.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.razor.runtime.dll
+++Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecaching.abstractions.dll
+++Microsoft.AspNetCore.ResponseCaching.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecaching.dll
+++Microsoft.AspNetCore.ResponseCompression.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecompression.dll
+++Microsoft.AspNetCore.Rewrite.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.rewrite.dll
+++Microsoft.AspNetCore.Routing.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.routing.abstractions.dll
+++Microsoft.AspNetCore.Routing.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.routing.dll
+++Microsoft.AspNetCore.Server.HttpSys.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.httpsys.dll
+++Microsoft.AspNetCore.Server.IIS.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.iis.dll
+++Microsoft.AspNetCore.Server.IISIntegration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.iisintegration.dll
+++Microsoft.AspNetCore.Server.Kestrel.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.core.dll
+++Microsoft.AspNetCore.Server.Kestrel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.transport.sockets.dll
+++Microsoft.AspNetCore.Session.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.session.dll
+++Microsoft.AspNetCore.SignalR.Common.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.common.dll
+++Microsoft.AspNetCore.SignalR.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.core.dll
+++Microsoft.AspNetCore.SignalR.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.dll
+++Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.protocols.json.dll
+++Microsoft.AspNetCore.StaticFiles.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.staticfiles.dll
+++Microsoft.AspNetCore.WebSockets.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.websockets.dll
+++Microsoft.AspNetCore.WebUtilities.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.aspnetcore.webutilities.dll
+++Microsoft.CSharp.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.csharp.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.CommandLine.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.commandline.dll
+++Microsoft.Extensions.Configuration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.environmentvariables.dll
+++Microsoft.Extensions.Configuration.FileExtensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.fileextensions.dll
+++Microsoft.Extensions.Configuration.Ini.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.ini.dll
+++Microsoft.Extensions.Configuration.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.json.dll
+++Microsoft.Extensions.Configuration.KeyPerFile.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.keyperfile.dll
+++Microsoft.Extensions.Configuration.UserSecrets.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.usersecrets.dll
+++Microsoft.Extensions.Configuration.Xml.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.configuration.xml.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.diagnostics.healthchecks.abstractions.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.diagnostics.healthchecks.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Composite.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.composite.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.FileProviders.Physical.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.physical.dll
+++Microsoft.Extensions.FileSystemGlobbing.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.filesystemglobbing.dll
+++Microsoft.Extensions.Hosting.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.hosting.abstractions.dll
+++Microsoft.Extensions.Hosting.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.hosting.dll
+++Microsoft.Extensions.Http.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.http.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.identity.stores.dll
+++Microsoft.Extensions.Localization.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.localization.abstractions.dll
+++Microsoft.Extensions.Localization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.localization.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Logging.Debug.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.debug.dll
+++Microsoft.Extensions.Logging.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Logging.EventLog.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.eventlog.dll
+++Microsoft.Extensions.Logging.EventSource.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.eventsource.dll
+++Microsoft.Extensions.Logging.TraceSource.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.logging.tracesource.dll
+++Microsoft.Extensions.ObjectPool.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.objectpool.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Options.DataAnnotations.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.options.dataannotations.dll
+++Microsoft.Extensions.WebEncoders.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.extensions.webencoders.dll
+++Microsoft.JSInterop.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.jsinterop.dll
+++Microsoft.Net.Http.Headers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.net.http.headers.dll
+++Microsoft.VisualBasic.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.visualbasic.core.dll
+++Microsoft.VisualBasic.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.visualbasic.dll
+++Microsoft.Win32.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.win32.primitives.dll
+++Microsoft.Win32.Registry.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\microsoft.win32.registry.dll
+++mscorlib.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\mscorlib.dll
+++netstandard.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\netstandard.dll
+++System.AppContext.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.appcontext.dll
+++System.Buffers.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.buffers.dll
+++System.Collections.Concurrent.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.collections.concurrent.dll
+++System.Collections.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.collections.dll
+++System.Collections.Immutable.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.collections.immutable.dll
+++System.Collections.NonGeneric.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.collections.nongeneric.dll
+++System.Collections.Specialized.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.collections.specialized.dll
+++System.ComponentModel.Annotations.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.annotations.dll
+++System.ComponentModel.DataAnnotations.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.dataannotations.dll
+++System.ComponentModel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.dll
+++System.ComponentModel.EventBasedAsync.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.eventbasedasync.dll
+++System.ComponentModel.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.primitives.dll
+++System.ComponentModel.TypeConverter.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.componentmodel.typeconverter.dll
+++System.Configuration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.configuration.dll
+++System.Console.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.console.dll
+++System.Core.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.core.dll
+++System.Data.Common.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.data.common.dll
+++System.Data.DataSetExtensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.data.datasetextensions.dll
+++System.Data.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.data.dll
+++System.Diagnostics.Contracts.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.contracts.dll
+++System.Diagnostics.Debug.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.debug.dll
+++System.Diagnostics.EventLog.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.eventlog.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.Process.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.process.dll
+++System.Diagnostics.StackTrace.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.stacktrace.dll
+++System.Diagnostics.TextWriterTraceListener.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.textwritertracelistener.dll
+++System.Diagnostics.Tools.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.tools.dll
+++System.Diagnostics.TraceSource.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.tracesource.dll
+++System.Diagnostics.Tracing.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.diagnostics.tracing.dll
+++System.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.dll
+++System.Drawing.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.drawing.dll
+++System.Drawing.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.drawing.primitives.dll
+++System.Dynamic.Runtime.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.dynamic.runtime.dll
+++System.Formats.Asn1.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.formats.asn1.dll
+++System.Globalization.Calendars.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.globalization.calendars.dll
+++System.Globalization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.globalization.dll
+++System.Globalization.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.globalization.extensions.dll
+++System.IO.Compression.Brotli.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.compression.brotli.dll
+++System.IO.Compression.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.compression.dll
+++System.IO.Compression.FileSystem.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.compression.filesystem.dll
+++System.IO.Compression.ZipFile.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.compression.zipfile.dll
+++System.IO.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.dll
+++System.IO.FileSystem.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.filesystem.dll
+++System.IO.FileSystem.DriveInfo.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.filesystem.driveinfo.dll
+++System.IO.FileSystem.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.filesystem.primitives.dll
+++System.IO.FileSystem.Watcher.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.filesystem.watcher.dll
+++System.IO.IsolatedStorage.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.isolatedstorage.dll
+++System.IO.MemoryMappedFiles.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.memorymappedfiles.dll
+++System.IO.Pipelines.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.pipelines.dll
+++System.IO.Pipes.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.pipes.dll
+++System.IO.UnmanagedMemoryStream.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.io.unmanagedmemorystream.dll
+++System.Linq.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.linq.dll
+++System.Linq.Expressions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.linq.expressions.dll
+++System.Linq.Parallel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.linq.parallel.dll
+++System.Linq.Queryable.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.linq.queryable.dll
+++System.Memory.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.memory.dll
+++System.Net.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.dll
+++System.Net.Http.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.http.dll
+++System.Net.Http.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.http.json.dll
+++System.Net.HttpListener.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.httplistener.dll
+++System.Net.Mail.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.mail.dll
+++System.Net.NameResolution.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.nameresolution.dll
+++System.Net.NetworkInformation.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.networkinformation.dll
+++System.Net.Ping.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.ping.dll
+++System.Net.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.primitives.dll
+++System.Net.Requests.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.requests.dll
+++System.Net.Security.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.security.dll
+++System.Net.ServicePoint.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.servicepoint.dll
+++System.Net.Sockets.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.sockets.dll
+++System.Net.WebClient.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.webclient.dll
+++System.Net.WebHeaderCollection.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.webheadercollection.dll
+++System.Net.WebProxy.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.webproxy.dll
+++System.Net.WebSockets.Client.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.websockets.client.dll
+++System.Net.WebSockets.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.net.websockets.dll
+++System.Numerics.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.numerics.dll
+++System.Numerics.Vectors.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.numerics.vectors.dll
+++System.ObjectModel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.objectmodel.dll
+++System.Reflection.DispatchProxy.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.dispatchproxy.dll
+++System.Reflection.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.dll
+++System.Reflection.Emit.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.emit.dll
+++System.Reflection.Emit.ILGeneration.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.emit.ilgeneration.dll
+++System.Reflection.Emit.Lightweight.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.emit.lightweight.dll
+++System.Reflection.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.extensions.dll
+++System.Reflection.Metadata.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.metadata.dll
+++System.Reflection.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.primitives.dll
+++System.Reflection.TypeExtensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.reflection.typeextensions.dll
+++System.Resources.Reader.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.resources.reader.dll
+++System.Resources.ResourceManager.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.resources.resourcemanager.dll
+++System.Resources.Writer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.resources.writer.dll
+++System.Runtime.CompilerServices.VisualC.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.compilerservices.visualc.dll
+++System.Runtime.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.dll
+++System.Runtime.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.extensions.dll
+++System.Runtime.Handles.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.handles.dll
+++System.Runtime.InteropServices.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.interopservices.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.interopservices.runtimeinformation.dll
+++System.Runtime.Intrinsics.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.intrinsics.dll
+++System.Runtime.Loader.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.loader.dll
+++System.Runtime.Numerics.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.numerics.dll
+++System.Runtime.Serialization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.serialization.dll
+++System.Runtime.Serialization.Formatters.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.serialization.formatters.dll
+++System.Runtime.Serialization.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.serialization.json.dll
+++System.Runtime.Serialization.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.serialization.primitives.dll
+++System.Runtime.Serialization.Xml.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.runtime.serialization.xml.dll
+++System.Security.AccessControl.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.accesscontrol.dll
+++System.Security.Claims.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.claims.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Cng.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.cng.dll
+++System.Security.Cryptography.Csp.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.csp.dll
+++System.Security.Cryptography.Encoding.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.x509certificates.dll
+++System.Security.Cryptography.Xml.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.cryptography.xml.dll
+++System.Security.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.dll
+++System.Security.Permissions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.permissions.dll
+++System.Security.Principal.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.principal.dll
+++System.Security.Principal.Windows.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.principal.windows.dll
+++System.Security.SecureString.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.security.securestring.dll
+++System.ServiceModel.Web.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.servicemodel.web.dll
+++System.ServiceProcess.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.serviceprocess.dll
+++System.Text.Encoding.CodePages.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.encoding.codepages.dll
+++System.Text.Encoding.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.encoding.dll
+++System.Text.Encoding.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.encoding.extensions.dll
+++System.Text.Encodings.Web.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.encodings.web.dll
+++System.Text.Json.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.json.dll
+++System.Text.RegularExpressions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.text.regularexpressions.dll
+++System.Threading.Channels.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.channels.dll
+++System.Threading.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.dll
+++System.Threading.Overlapped.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.overlapped.dll
+++System.Threading.Tasks.Dataflow.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.tasks.dataflow.dll
+++System.Threading.Tasks.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.tasks.dll
+++System.Threading.Tasks.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.tasks.extensions.dll
+++System.Threading.Tasks.Parallel.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.tasks.parallel.dll
+++System.Threading.Thread.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.thread.dll
+++System.Threading.ThreadPool.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.threadpool.dll
+++System.Threading.Timer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.threading.timer.dll
+++System.Transactions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.transactions.dll
+++System.Transactions.Local.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.transactions.local.dll
+++System.ValueTuple.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.valuetuple.dll
+++System.Web.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.web.dll
+++System.Web.HttpUtility.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.web.httputility.dll
+++System.Windows.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.windows.dll
+++System.Windows.Extensions.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.windows.extensions.dll
+++System.Xml.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.dll
+++System.Xml.Linq.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.linq.dll
+++System.Xml.ReaderWriter.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.readerwriter.dll
+++System.Xml.Serialization.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.serialization.dll
+++System.Xml.XDocument.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.xdocument.dll
+++System.Xml.XmlDocument.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.xmldocument.dll
+++System.Xml.XmlSerializer.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.xmlserializer.dll
+++System.Xml.XPath.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\system.xml.xpath.xdocument.dll
+++WindowsBase.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\refs\windowsbase.dll
+++unix
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\unix\
+++win
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x86\
+++RetroShirtWeb.StaticWebAssets.Manifest.cache
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\staticwebassets\retroshirtweb.staticwebassets.manifest.cache
+++Microsoft.NuGet.ImportBefore.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++bootstrap.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++native
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\native\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x64\native\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x86\native\
+++_ViewImports.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\_viewstart.cshtml.g.cs
+++Microsoft.EntityFrameworkCore.Design.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.design\5.0.16\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++bootstrap.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap-grid.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\jquery\dist\jquery.min.map
+++netcoreapp3.1
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Index.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\home\index.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\index.cshtml.g.cs
+++Privacy.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\home\privacy.cshtml.g.cs
+++Create.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\create.cshtml.g.cs
+++CreateTeam.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\createteam.cshtml.g.cs
+++Delete.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\delete.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\_layout.cshtml.g.cs
+++_Navbar.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\_navbar.cshtml.g.cs
+++_Pagination.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\_pagination.cshtml.g.cs
+++_ProductCard.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\_productcard.cshtml.g.cs
+++_ValidationScriptsPartial.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\_validationscriptspartial.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\error.cshtml.g.cs
+++Microsoft.NET.ILLink.Tasks.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.min.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.min.js.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++dotnet-aspnet-codegenerator-design.exe
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++RetroShirtWeb.csproj.user
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\retroshirtweb.csproj.user
+++Microsoft.NET.props
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:c:\users\user\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\5.0.16\buildtransitive\net5.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.targets
+++bootstrap.bundle.min.js.map
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Default.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\shared\components\dropdownmenu\default.cshtml.g.cs
+++Microsoft.DesktopBridge.Common.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\program files (x86)\vstudio2022main\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Remove.cshtml.g.cs
+i:{323b3d75-6ae4-4661-94e4-abf85013fa6f}:d:\c# projects\retroshirtweb\retroshirtweb\obj\debug\net5.0\razor\views\products\remove.cshtml.g.cs

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RetroShirtDtos/1.0.0": {
+        "dependencies": {
+          "RetroShirtEntities": "1.0.0"
+        },
+        "runtime": {
+          "RetroShirtDtos.dll": {}
+        }
+      },
+      "RetroShirtEntities/1.0.0": {
+        "runtime": {
+          "RetroShirtEntities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RetroShirtDtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RetroShirtEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

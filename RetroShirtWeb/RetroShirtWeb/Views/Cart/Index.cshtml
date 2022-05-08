@@ -1,0 +1,70 @@
+﻿@model CartCollection
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link href="~/lib/alertify/css/alertify.min.css" rel="stylesheet" />
+
+<h1 class="mt-3 mb-3">Shop Cart</h1>
+<p>All of your items added to cart listed below. </p>
+@if (Model.CartItems.Count == 0)
+{
+    <div class="alert alert-warning">This cart is empty.</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Quantity</th>
+                <th>Subtotal</th>               
+                <th><a asp-action="RemoveAllCart"><i class="fa-solid fa-ban"></i></a> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cart in Model.CartItems)
+            {
+                <tr>
+                    <td>@cart.Product.Name</td>
+                    <td>@cart.Quantity</td>
+                    <td>@(cart.Product.Price * (1 - (cart.Product.Discount ?? 0)) * cart.Quantity) $</td>
+                    <td><a asp-action="Remove" class="RemoveItem" data-id="@cart.Product.Id"><i class="fa-solid fa-trash-can"></i></a> </td>
+
+                </tr>
+            }
+        </tbody>
+        
+        <tfoot>           
+                 <tr> 
+                     <td></td>
+                     <td></td>
+                <td colspan="4"> <span class="font-weight-bold">Total:</span> @Model.GetTotalPrice() $</td>
+            </tr>
+           
+           
+        </tfoot>
+    </table>
+
+    <script src="~/lib/alertify/alertify.min.js"></script>
+}
+
+@section Scripts{ 
+
+<script>
+    $(document).ready(function () {
+        $('.RemoveItem').on('click', function () {
+            let id = $(this).data('id');
+            $.ajax({
+                url: '/Cart/Remove/' + id,
+                type:'GET',
+                dataType: 'json',
+                success:function () {
+                    alertify.success("Items removed.");
+                }
+            });
+        });
+    });
+</script>
+
+}

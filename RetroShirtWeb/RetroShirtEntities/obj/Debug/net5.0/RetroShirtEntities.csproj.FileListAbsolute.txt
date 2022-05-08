@@ -1,0 +1,12 @@
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\bin\Debug\net5.0\RetroShirtEntities.deps.json
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\bin\Debug\net5.0\RetroShirtEntities.dll
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\bin\Debug\net5.0\RetroShirtEntities.pdb
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.csproj.AssemblyReference.cache
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.AssemblyInfoInputs.cache
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.AssemblyInfo.cs
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.csproj.CoreCompileInputs.cache
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.dll
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\refint\RetroShirtEntities.dll
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\RetroShirtEntities.pdb
+D:\C# Projects\RetroShirtWeb\RetroShirtEntities\obj\Debug\net5.0\ref\RetroShirtEntities.dll

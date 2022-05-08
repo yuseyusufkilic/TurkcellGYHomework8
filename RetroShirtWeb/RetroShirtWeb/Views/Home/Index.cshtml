@@ -1,0 +1,61 @@
+﻿
+@model IEnumerable<ProductListResponse>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class=" forjumbo jumbotron jumbotron-fluid " style="background-image: url(http://beingcovers.com/download.php?id=3551); background-size: 100%;">
+
+  <div class="container">
+      <div class="alignjumbo">
+          <h1 class="display-4">Retro Football Shop</h1>
+          <p class="lead text-muted">Here is the heart of old-school sports stuff.</p>
+      </div>
+    
+  </div>
+    @if (ViewBag.visits != null)
+    {
+         <div>
+  <div class="alert alert-muted p-1 my-2 my-lg-0 mr-3 ml-2" style="opacity:0.8;" role="alert">
+        <p class="m-0 p-0 text-muted " style="opacity:0.8;">Page visits: @ViewBag.visits</p>    
+    </div>
+</div>
+    }
+
+  </div>
+
+<div class="row">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-3">
+            <partial name="_ProductCard" model ="@item">
+            </div>
+        }    
+</div>
+
+
+@section Scripts{ 
+
+<script>
+    $(document).ready(function () {
+        $('.shopCart').on('click', function () {
+            let id = $(this).data('id');
+            $.ajax({
+                url: '/Cart/Add/' + id,
+                type:'GET',
+                dataType: 'json',               
+                success: function (data) {
+                    alertify.success(data);
+                }
+            });
+        });
+    });
+</script>
+
+}
+
+
+
+
+

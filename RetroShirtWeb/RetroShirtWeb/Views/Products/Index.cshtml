@@ -1,0 +1,102 @@
+﻿@model IEnumerable<ProductListResponse>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mt-3">Products</h1>
+<p class="mb-0">All added products can remove and edit, it is possible to creating new product.</p>
+
+<p>You might want to add new team before you create a product.</p>
+<a asp-action="CreateTeam">Create new team</a>
+<p>
+    <a asp-action="Create">Create new product</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price) 
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                 <p class="mb-0">Stock</p>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Team)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <p>@item.Price$</p>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>           
+            <td>
+                <img src="@item.ImageUrl" class="img-thumbnail w-75"><img />
+            </td>
+            <td>
+                <div class="ml-4"> @if (@item.IsActive)
+              {
+                        <input class="form-check-input" type="checkbox" id="flexSwitchCheckCheckedDisabled" checked disabled>
+                  
+                    }
+                    else
+                    {
+                        <input class="form-check-input" type="checkbox" id="flexSwitchCheckDisabled" disabled>
+                       
+                    }</div>
+              
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Team.Name)
+            </td>
+            <td>              
+                @Html.DisplayFor(modelItem => item.Category.Name)               
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id })-
+                @Html.ActionLink("Details", "Details", new { id=item.Id })-
+                @Html.ActionLink("Inactive", "Delete", new { id=item.Id })-
+                @Html.ActionLink("Remove", "Remove", new { id=item.Id })
+
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+

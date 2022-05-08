@@ -1,0 +1,50 @@
+﻿@model RetroShirtEntities.Team
+
+@{
+    ViewData["Title"] = "CreateTeam";
+}
+
+
+<h1 class="mt-3">CreateTeam</h1>
+
+<h4>Team</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateTeam">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+          
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group ">
+                <input type="submit" value="CreateTeam" class="btn btn-primary btn1" />
+            </div>
+
+            @if (TempData["AlertMessage"] != null)
+            {
+                <div class="alert alert-warning">
+                @TempData["AlertMessage"]
+                </div>
+            }
+          
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+     
+    
+
+    
+</script>     
+    
+}
