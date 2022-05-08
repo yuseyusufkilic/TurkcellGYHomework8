@@ -1,3 +1,0 @@
-# TurkcellGYHomework8
- 
- 
